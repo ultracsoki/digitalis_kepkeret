@@ -1,0 +1,23 @@
+body
+{
+  background-color: white;
+  color: black;
+}
+
+.footerNav
+{
+  background-color: white;
+  color: black;
+}
+
+
+.dark-mode
+{
+  background-color: black;
+  color: white;
+}
+
+#kep
+{
+  margin: 30px;
+}
